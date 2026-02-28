@@ -1,0 +1,5 @@
+/seed
+/effect give @a minecraft:night_vision infinite
+/tp 67 11 -84
+/effect give @s minecraft:night_vision infinite
+/seed

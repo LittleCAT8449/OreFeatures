@@ -1,0 +1,8 @@
+--add-opens
+java.base/java.lang.invoke=ALL-UNNAMED
+--add-exports
+jdk.naming.dns/com.sun.jndi.dns=java.naming
+-Dlog4j2.configurationFile=E:\\DowLoad\\Just-Player-Heads-1.21.1\\OneHeart\\build\\moddev\\serverLog4j2.xml
+-Djava.net.preferIPv6Addresses=system
+-Dneoforge.enabledGameTestNamespaces=oneheart
+-Dforge.logging.markers=REGISTRIES

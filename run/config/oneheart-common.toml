@@ -1,0 +1,12 @@
+#All Config
+[Config]
+	# Default: 16
+	# Range: 0 ~ 64
+	XConfusion = 16
+	# Default: 8
+	# Range: 0 ~ 64
+	YConfusion = 8
+	# Default: 16
+	# Range: 0 ~ 64
+	ZConfusion = 16
+	OpenDebug = false
